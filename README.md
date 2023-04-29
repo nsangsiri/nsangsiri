@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Peter. 
+
+I like to play games and listen to music.
 
 <!--
 **nsangsiri/nsangsiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
